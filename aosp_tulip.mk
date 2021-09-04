@@ -40,6 +40,10 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := aosp_tulip
 PRODUCT_MODEL := Redmi Note 6 Pro
 
+# PixelExtended Official
+PEX_BUILD_TYPE := OFFICIAL
+PEX_MAINTAINER := PinCredible
+
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_VENDOR_PRODUCT_NAME := tulip
