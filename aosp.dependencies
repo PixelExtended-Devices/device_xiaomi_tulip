@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "device_xiaomi_tulip-common",
+    "target_path": "device/xiaomi/sdm660-common",
+    "branch":      "pex"
+  },
+  {
+    "remote":      "github",
+    "repository"  : "vendor_xiaomi_tulip",
+    "target_path" : "vendor/xiaomi/tulip",
+    "branch"      : "pex",
+  },
+  {
+    "remote":      "github",
+    "repository":  "vendor_xiaomi_tulip-common",
+    "target_path": "vendor/xiaomi/sdm660-common",
+    "branch":      "pex"
+  },
+  {
+    "remote":      "github",
+    "repository" : "kernel-xiaomi-sdm660",
+    "target_path": "kernel/xiaomi/tulip",
+    "branch"     : "eas"
+  }
+] 
