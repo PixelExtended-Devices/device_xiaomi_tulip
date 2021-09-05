@@ -73,6 +73,10 @@ PRODUCT_PACKAGES += \
 # Shims
 PRODUCT_PACKAGES += \
     libcamera_sdm660_shim
+	
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePkgs
 
 # USB
 PRODUCT_PACKAGES += \
